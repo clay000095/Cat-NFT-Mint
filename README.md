@@ -1,5 +1,5 @@
 # 這是個TechCat的NFT鑄造平台
-[![]](https://github.com/clay000095/Cat-NFT-Mint/blob/main/demo-visual/Cat_mint.gif)
+![image](https://github.com/clay000095/Cat-NFT-Mint/blob/main/demo-visual/Cat_mint.gif)
 
 ```sh 
 yarn install
