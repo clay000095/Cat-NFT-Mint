@@ -1,4 +1,4 @@
-# 這是個TechCat的NFT鑄造平台
+# TechCat NFT Mint
 ![image](https://github.com/clay000095/Cat-NFT-Mint/blob/main/demo-visual/Cat_mint.gif)
 
 ```sh 
